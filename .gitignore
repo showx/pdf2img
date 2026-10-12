@@ -1,0 +1,4 @@
+/target
+/pdf2img.exe
+**/*.rs.bk
+.DS_Store
